@@ -1,0 +1,54 @@
+{
+  "total_documents": 4,
+  "total_word_count": 186,
+  "documents": {
+    "ai_intro.txt": {
+      "word_count": 48,
+      "char_count": 364,
+      "line_count": 3,
+      "top_words": [
+        "artificial",
+        "intelligence",
+        "ai",
+        "machine",
+        "learning",
+        "deep"
+      ]
+    },
+    "deep_learning.txt": {
+      "word_count": 43,
+      "char_count": 318,
+      "line_count": 4,
+      "top_words": [
+        "deep",
+        "learning",
+        "machine",
+        "artificial"
+      ]
+    },
+    "Machine_learning.txt": {
+      "word_count": 49,
+      "char_count": 388,
+      "line_count": 4,
+      "top_words": [
+        "machine",
+        "learning",
+        "artificial",
+        "intelligence",
+        "linear",
+        "logistic"
+      ]
+    },
+    "python_basics.txt": {
+      "word_count": 46,
+      "char_count": 328,
+      "line_count": 4,
+      "top_words": [
+        "python",
+        "artificial",
+        "intelligence",
+        "ai"
+      ]
+    }
+  }
+}

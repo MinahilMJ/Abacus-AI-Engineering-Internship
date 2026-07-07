@@ -1,0 +1,4 @@
+Deep Learning is a specialized branch of Machine Learning based on artificial neural networks.
+Deep learning models are capable of solving complex problems such as image recognition, speech recognition, object detection, and natural
+language processing.
+Popular deep learning frameworks include TensorFlow and PyTorch.

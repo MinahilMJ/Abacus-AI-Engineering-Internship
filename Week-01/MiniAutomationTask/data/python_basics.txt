@@ -1,0 +1,4 @@
+Python is one of the most popular programming languages for Artificial Intelligence.
+It is simple to learn, has excellent community support, and provides powerful libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and
+PyTorch.
+Python is widely used for automation, backend development, data science, and AI applications.

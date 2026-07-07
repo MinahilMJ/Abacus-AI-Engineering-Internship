@@ -1,0 +1,4 @@
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn patterns from data.
+Common machine learning algorithms include Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector
+Machines, and K-Means Clustering.
+The machine learning workflow consists of data collection, preprocessing, model training, evaluation, and prediction.

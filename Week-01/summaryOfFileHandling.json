@@ -1,0 +1,186 @@
+{
+    "ai_intro.txt": {
+        "word_count": 48,
+        "line_count": 3,
+        "frequent_words": [
+            [
+                "ai",
+                3
+            ],
+            [
+                "intelligence",
+                2
+            ],
+            [
+                "is",
+                2
+            ],
+            [
+                "that",
+                2
+            ],
+            [
+                "and",
+                2
+            ],
+            [
+                "language",
+                2
+            ],
+            [
+                "learning",
+                2
+            ],
+            [
+                "artificial",
+                1
+            ],
+            [
+                "a",
+                1
+            ],
+            [
+                "branch",
+                1
+            ]
+        ]
+    },
+    "deep_learning.txt": {
+        "word_count": 43,
+        "line_count": 4,
+        "frequent_words": [
+            [
+                "learning",
+                4
+            ],
+            [
+                "deep",
+                3
+            ],
+            [
+                "of",
+                2
+            ],
+            [
+                "recognition",
+                2
+            ],
+            [
+                "and",
+                2
+            ],
+            [
+                "is",
+                1
+            ],
+            [
+                "a",
+                1
+            ],
+            [
+                "specialized",
+                1
+            ],
+            [
+                "branch",
+                1
+            ],
+            [
+                "machine",
+                1
+            ]
+        ]
+    },
+    "Machine_learning.txt": {
+        "word_count": 49,
+        "line_count": 4,
+        "frequent_words": [
+            [
+                "machine",
+                3
+            ],
+            [
+                "learning",
+                3
+            ],
+            [
+                "of",
+                2
+            ],
+            [
+                "data",
+                2
+            ],
+            [
+                "regression",
+                2
+            ],
+            [
+                "and",
+                2
+            ],
+            [
+                "is",
+                1
+            ],
+            [
+                "a",
+                1
+            ],
+            [
+                "subset",
+                1
+            ],
+            [
+                "artificial",
+                1
+            ]
+        ]
+    },
+    "python_basics.txt": {
+        "word_count": 46,
+        "line_count": 4,
+        "frequent_words": [
+            [
+                "is",
+                3
+            ],
+            [
+                "and",
+                3
+            ],
+            [
+                "python",
+                2
+            ],
+            [
+                "for",
+                2
+            ],
+            [
+                "one",
+                1
+            ],
+            [
+                "of",
+                1
+            ],
+            [
+                "the",
+                1
+            ],
+            [
+                "most",
+                1
+            ],
+            [
+                "popular",
+                1
+            ],
+            [
+                "programming",
+                1
+            ]
+        ]
+    }
+}
