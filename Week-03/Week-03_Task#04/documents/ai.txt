@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+AI systems can learn from data, recognize patterns, understand natural language, make decisions, and solve complex problems.
+
+Artificial Intelligence is used in many fields including healthcare, finance, education, cybersecurity, robotics, and autonomous vehicles.
+
+Machine Learning is a major subset of Artificial Intelligence where computers learn patterns from data instead of being explicitly programmed for every task.
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, audio, and code using advanced models.
