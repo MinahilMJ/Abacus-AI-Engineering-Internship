@@ -1,9 +1,0 @@
-Python is a high-level, interpreted programming language known for its simplicity and readability.
-
-Python is widely used in software development, data science, artificial intelligence, machine learning, automation, and web development.
-
-Python provides many built-in data structures such as lists, tuples, dictionaries, and sets that help programmers efficiently store and process information.
-
-Python supports object-oriented programming, functional programming, and procedural programming approaches.
-
-Popular Python libraries include NumPy for numerical computing, Pandas for data analysis, TensorFlow and PyTorch for deep learning, and Flask and Django for web development.
