@@ -1,0 +1,11 @@
+Machine Learning is a field of Artificial Intelligence that enables computers to learn from data and improve their performance without being explicitly programmed.
+
+Machine Learning algorithms identify patterns in datasets and use those patterns to make predictions or decisions.
+
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning uses labeled data to train models. Examples include classification and regression tasks.
+
+Unsupervised learning works with unlabeled data and discovers hidden patterns or structures. Clustering is a common example.
+
+Reinforcement learning trains agents through rewards and penalties to make better decisions over time.
