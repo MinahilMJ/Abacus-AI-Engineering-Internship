@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+python-multipart
+pymupdf
+sentence-transformers
+chromadb
+requests
+langgraph
+langchain-core
+langchain-groq
+PyJWT
+pytest
+httpx
