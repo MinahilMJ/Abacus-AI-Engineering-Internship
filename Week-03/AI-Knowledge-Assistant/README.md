@@ -98,9 +98,6 @@ AI-Knowledge-Assistant/
 ├── data/
 │   └── ai.txt
 │
-├── uploads/
-│
-├── prompts/
 │
 ├── .env.example
 ├── .gitignore
