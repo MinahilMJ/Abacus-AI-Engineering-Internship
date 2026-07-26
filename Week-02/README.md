@@ -1,6 +1,6 @@
 # Week 02 - Machine Learning Fundamentals
 
-This folder contains my **Week 02** work completed during the **Abacus AI Engineering Internship**, covering data analysis, visualization, machine learning, and customer churn prediction.
+This folder contains my Week 02 work completed during the Abacus AI Engineering Internship, covering data analysis, visualization, machine learning, and customer churn prediction.
 
 ## Topics Covered
 
