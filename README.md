@@ -136,9 +136,9 @@ The internship involves working with:
 | Week     | Focus Area                                      | Status      |
 | -------- | ----------------------------------------------- | ----------- |
 | Week 1   | AI Engineering Introduction + Python Foundation | Completed   |
-| Week 2   | Machine Learning + Deep Learning Fundamentals   | Upcoming    |
-| Week 3   | Generative AI + LLM Application Development     | Upcoming    |
-| Week 4-6 | To be updated                                   | Coming Soon |
+| Week 2   | Machine Learning + Deep Learning Fundamentals   | Completed   |
+| Week 3-4 | Generative AI + LLM Application Development     | Completed   |
+| Week 5-6 | To be updated                                   | Coming Soon |
 
 ---
 
